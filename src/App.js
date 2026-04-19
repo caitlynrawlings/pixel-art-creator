@@ -333,7 +333,7 @@ export default function App() {
   return (
     <div style={{ fontFamily: "'Courier New', monospace", background: "#0f0f0f", minHeight: "100vh", color: "#e8e8e8", padding: "2rem" }}>
       <h1 style={{ fontSize: "1.8rem", fontWeight: 700, letterSpacing: "0.05em", marginBottom: "2rem", color: "#f0e040" }}>
-        Pixel Puzzle Generator
+        Pixel Art Activity Generator
       </h1>
 
       {/* Upload */}
