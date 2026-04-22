@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel-art-creator/static/css/main.134badfa.css",
-    "main.js": "/pixel-art-creator/static/js/main.392ff77d.js",
+    "main.css": "/pixel-art-creator/static/css/main.43b48309.css",
+    "main.js": "/pixel-art-creator/static/js/main.93f931bb.js",
     "static/js/453.ab6cb4fd.chunk.js": "/pixel-art-creator/static/js/453.ab6cb4fd.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/pixel-art-creator/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/pixel-art-creator/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
@@ -64,12 +64,12 @@
     "static/media/KaTeX_Size3-Regular.woff": "/pixel-art-creator/static/media/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff",
     "static/media/KaTeX_Size3-Regular.woff2": "/pixel-art-creator/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/pixel-art-creator/index.html",
-    "main.134badfa.css.map": "/pixel-art-creator/static/css/main.134badfa.css.map",
-    "main.392ff77d.js.map": "/pixel-art-creator/static/js/main.392ff77d.js.map",
+    "main.43b48309.css.map": "/pixel-art-creator/static/css/main.43b48309.css.map",
+    "main.93f931bb.js.map": "/pixel-art-creator/static/js/main.93f931bb.js.map",
     "453.ab6cb4fd.chunk.js.map": "/pixel-art-creator/static/js/453.ab6cb4fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.134badfa.css",
-    "static/js/main.392ff77d.js"
+    "static/css/main.43b48309.css",
+    "static/js/main.93f931bb.js"
   ]
 }
